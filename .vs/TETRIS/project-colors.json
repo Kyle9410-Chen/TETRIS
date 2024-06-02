@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "916b31b0-c78b-489b-8c82-8f24875ec702": {
+      "ProjectGuid": "916b31b0-c78b-489b-8c82-8f24875ec702",
+      "DisplayName": "TETRIS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
